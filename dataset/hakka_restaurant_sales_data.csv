@@ -1,1 +1,201 @@
-
+OrderID,OrderDate,Branch,City,CustomerID,CustomerType,MenuItem,Category,Quantity,UnitPrice,Cost,Revenue,Profit,PaymentMethod,OrderType
+ORD1001,2026-02-05,Toronto Branch,Toronto,CUST001,New,Veg Hakka Noodles,Noodles,1,12.99,6.5,12.99,6.49,Credit Card,Dine-In
+ORD1002,2026-01-12,Toronto Branch,Toronto,CUST002,Repeat,Veg Hakka Noodles,Noodles,5,12.99,6.5,64.95,32.45,Credit Card,Dine-In
+ORD1003,2026-03-06,Brampton Branch,Brampton,CUST003,New,Schezwan Fried Rice,Rice,2,13.49,6.8,26.98,13.38,Cash,Dine-In
+ORD1004,2026-01-29,Toronto Branch,Toronto,CUST004,Repeat,Chicken Momos,Appetizer,4,10.99,5.2,43.96,23.16,Cash,Takeout
+ORD1005,2026-02-13,Brampton Branch,Brampton,CUST005,Repeat,Chicken Fried Rice,Rice,4,14.49,8,57.96,25.96,Credit Card,Dine-In
+ORD1006,2026-02-18,Mississauga Branch,Mississauga,CUST006,New,Veg Hakka Noodles,Noodles,1,12.99,6.5,12.99,6.49,Debit Card,Takeout
+ORD1007,2026-02-28,Toronto Branch,Toronto,CUST007,New,Chilli Chicken,Main Course,1,15.99,8.75,15.99,7.24,Debit Card,Dine-In
+ORD1008,2026-02-16,Toronto Branch,Toronto,CUST008,New,Chilli Chicken,Main Course,5,15.99,8.75,79.95,36.2,Cash,Dine-In
+ORD1009,2026-01-11,Brampton Branch,Brampton,CUST009,New,Schezwan Fried Rice,Rice,3,13.49,6.8,40.47,20.07,Credit Card,Takeout
+ORD1010,2026-01-21,Mississauga Branch,Mississauga,CUST010,Repeat,Spring Rolls,Appetizer,3,5.99,2.25,17.97,11.22,Debit Card,Dine-In
+ORD1011,2026-03-19,Toronto Branch,Toronto,CUST011,New,Chilli Chicken,Main Course,1,15.99,8.75,15.99,7.24,Cash,Delivery
+ORD1012,2026-02-18,Brampton Branch,Brampton,CUST012,Repeat,Chicken Fried Rice,Rice,4,14.49,8,57.96,25.96,Cash,Delivery
+ORD1013,2026-01-08,Toronto Branch,Toronto,CUST013,New,Schezwan Fried Rice,Rice,3,13.49,6.8,40.47,20.07,Credit Card,Takeout
+ORD1014,2026-01-28,Mississauga Branch,Mississauga,CUST014,Repeat,Chilli Chicken,Main Course,1,15.99,8.75,15.99,7.24,Credit Card,Delivery
+ORD1015,2026-01-19,Mississauga Branch,Mississauga,CUST015,Repeat,Honey Garlic Chicken,Main Course,4,16.99,9,67.96,31.96,Credit Card,Dine-In
+ORD1016,2026-02-03,Toronto Branch,Toronto,CUST016,Repeat,Chicken Momos,Appetizer,5,10.99,5.2,54.95,28.95,Cash,Takeout
+ORD1017,2026-03-07,Mississauga Branch,Mississauga,CUST017,Repeat,Schezwan Fried Rice,Rice,2,13.49,6.8,26.98,13.38,Credit Card,Dine-In
+ORD1018,2026-03-29,Brampton Branch,Brampton,CUST018,Repeat,Chicken Fried Rice,Rice,2,14.49,8,28.98,12.98,Cash,Dine-In
+ORD1019,2026-03-01,Mississauga Branch,Mississauga,CUST019,Repeat,Honey Garlic Chicken,Main Course,5,16.99,9,84.95,39.95,Cash,Dine-In
+ORD1020,2026-02-04,Toronto Branch,Toronto,CUST020,Repeat,Veg Hakka Noodles,Noodles,5,12.99,6.5,64.95,32.45,Credit Card,Takeout
+ORD1021,2026-01-01,Mississauga Branch,Mississauga,CUST021,Repeat,Chicken Fried Rice,Rice,4,14.49,8,57.96,25.96,Cash,Dine-In
+ORD1022,2026-03-23,Toronto Branch,Toronto,CUST022,New,Veg Hakka Noodles,Noodles,3,12.99,6.5,38.97,19.47,Credit Card,Takeout
+ORD1023,2026-01-01,Brampton Branch,Brampton,CUST023,Repeat,Chicken Momos,Appetizer,5,10.99,5.2,54.95,28.95,Debit Card,Dine-In
+ORD1024,2026-01-31,Brampton Branch,Brampton,CUST024,New,Veg Manchurian,Main Course,3,12.99,6.25,38.97,20.22,Credit Card,Delivery
+ORD1025,2026-01-09,Brampton Branch,Brampton,CUST025,New,Veg Hakka Noodles,Noodles,4,12.99,6.5,51.96,25.96,Credit Card,Delivery
+ORD1026,2026-02-03,Mississauga Branch,Mississauga,CUST026,Repeat,Chicken Momos,Appetizer,2,10.99,5.2,21.98,11.58,Credit Card,Delivery
+ORD1027,2026-02-21,Toronto Branch,Toronto,CUST027,Repeat,Schezwan Fried Rice,Rice,3,13.49,6.8,40.47,20.07,Debit Card,Delivery
+ORD1028,2026-01-29,Mississauga Branch,Mississauga,CUST028,New,Veg Hakka Noodles,Noodles,2,12.99,6.5,25.98,12.98,Debit Card,Dine-In
+ORD1029,2026-03-17,Toronto Branch,Toronto,CUST029,New,Chicken Momos,Appetizer,2,10.99,5.2,21.98,11.58,Credit Card,Dine-In
+ORD1030,2026-01-09,Toronto Branch,Toronto,CUST030,New,Chicken Hakka Noodles,Noodles,2,13.99,7.5,27.98,12.98,Debit Card,Dine-In
+ORD1031,2026-03-27,Toronto Branch,Toronto,CUST031,Repeat,Schezwan Fried Rice,Rice,3,13.49,6.8,40.47,20.07,Credit Card,Delivery
+ORD1032,2026-03-02,Brampton Branch,Brampton,CUST032,New,Mango Lassi,Beverage,5,4.99,1.5,24.95,17.45,Debit Card,Takeout
+ORD1033,2026-03-26,Brampton Branch,Brampton,CUST033,Repeat,Veg Hakka Noodles,Noodles,1,12.99,6.5,12.99,6.49,Debit Card,Takeout
+ORD1034,2026-03-28,Mississauga Branch,Mississauga,CUST034,New,Spring Rolls,Appetizer,1,5.99,2.25,5.99,3.74,Credit Card,Takeout
+ORD1035,2026-02-01,Toronto Branch,Toronto,CUST035,New,Veg Manchurian,Main Course,1,12.99,6.25,12.99,6.74,Credit Card,Delivery
+ORD1036,2026-01-24,Mississauga Branch,Mississauga,CUST036,Repeat,Chicken Fried Rice,Rice,4,14.49,8,57.96,25.96,Debit Card,Dine-In
+ORD1037,2026-01-13,Brampton Branch,Brampton,CUST037,New,Spring Rolls,Appetizer,5,5.99,2.25,29.95,18.7,Cash,Delivery
+ORD1038,2026-01-22,Brampton Branch,Brampton,CUST038,Repeat,Veg Hakka Noodles,Noodles,2,12.99,6.5,25.98,12.98,Debit Card,Takeout
+ORD1039,2026-01-22,Brampton Branch,Brampton,CUST039,Repeat,Honey Garlic Chicken,Main Course,1,16.99,9,16.99,7.99,Credit Card,Takeout
+ORD1040,2026-02-24,Mississauga Branch,Mississauga,CUST040,Repeat,Spring Rolls,Appetizer,3,5.99,2.25,17.97,11.22,Credit Card,Dine-In
+ORD1041,2026-03-16,Mississauga Branch,Mississauga,CUST041,New,Schezwan Fried Rice,Rice,1,13.49,6.8,13.49,6.69,Cash,Takeout
+ORD1042,2026-03-03,Brampton Branch,Brampton,CUST042,New,Chicken Hakka Noodles,Noodles,5,13.99,7.5,69.95,32.45,Credit Card,Delivery
+ORD1043,2026-03-18,Brampton Branch,Brampton,CUST043,New,Chicken Fried Rice,Rice,1,14.49,8,14.49,6.49,Cash,Dine-In
+ORD1044,2026-02-01,Mississauga Branch,Mississauga,CUST044,New,Veg Hakka Noodles,Noodles,5,12.99,6.5,64.95,32.45,Cash,Dine-In
+ORD1045,2026-03-08,Mississauga Branch,Mississauga,CUST045,Repeat,Mango Lassi,Beverage,5,4.99,1.5,24.95,17.45,Debit Card,Dine-In
+ORD1046,2026-02-03,Toronto Branch,Toronto,CUST046,Repeat,Veg Manchurian,Main Course,2,12.99,6.25,25.98,13.48,Credit Card,Delivery
+ORD1047,2026-02-10,Toronto Branch,Toronto,CUST047,New,Chilli Chicken,Main Course,4,15.99,8.75,63.96,28.96,Credit Card,Takeout
+ORD1048,2026-01-10,Toronto Branch,Toronto,CUST048,New,Mango Lassi,Beverage,1,4.99,1.5,4.99,3.49,Cash,Takeout
+ORD1049,2026-02-01,Brampton Branch,Brampton,CUST049,Repeat,Veg Manchurian,Main Course,1,12.99,6.25,12.99,6.74,Debit Card,Dine-In
+ORD1050,2026-03-20,Mississauga Branch,Mississauga,CUST050,New,Chicken Momos,Appetizer,3,10.99,5.2,32.97,17.37,Cash,Delivery
+ORD1051,2026-02-03,Mississauga Branch,Mississauga,CUST051,New,Veg Hakka Noodles,Noodles,2,12.99,6.5,25.98,12.98,Credit Card,Delivery
+ORD1052,2026-02-06,Toronto Branch,Toronto,CUST052,New,Chicken Fried Rice,Rice,3,14.49,8,43.47,19.47,Cash,Takeout
+ORD1053,2026-03-04,Brampton Branch,Brampton,CUST053,Repeat,Chilli Chicken,Main Course,5,15.99,8.75,79.95,36.2,Credit Card,Dine-In
+ORD1054,2026-01-06,Toronto Branch,Toronto,CUST054,New,Honey Garlic Chicken,Main Course,3,16.99,9,50.97,23.97,Debit Card,Dine-In
+ORD1055,2026-02-26,Toronto Branch,Toronto,CUST055,Repeat,Chilli Chicken,Main Course,2,15.99,8.75,31.98,14.48,Cash,Dine-In
+ORD1056,2026-03-11,Brampton Branch,Brampton,CUST056,New,Veg Hakka Noodles,Noodles,2,12.99,6.5,25.98,12.98,Debit Card,Delivery
+ORD1057,2026-01-17,Toronto Branch,Toronto,CUST057,New,Chicken Fried Rice,Rice,4,14.49,8,57.96,25.96,Debit Card,Takeout
+ORD1058,2026-03-29,Brampton Branch,Brampton,CUST058,New,Veg Manchurian,Main Course,2,12.99,6.25,25.98,13.48,Cash,Dine-In
+ORD1059,2026-03-21,Mississauga Branch,Mississauga,CUST059,New,Chicken Momos,Appetizer,4,10.99,5.2,43.96,23.16,Credit Card,Dine-In
+ORD1060,2026-01-23,Brampton Branch,Brampton,CUST060,Repeat,Honey Garlic Chicken,Main Course,1,16.99,9,16.99,7.99,Debit Card,Delivery
+ORD1061,2026-01-21,Toronto Branch,Toronto,CUST061,New,Schezwan Fried Rice,Rice,3,13.49,6.8,40.47,20.07,Debit Card,Dine-In
+ORD1062,2026-02-28,Mississauga Branch,Mississauga,CUST062,Repeat,Schezwan Fried Rice,Rice,2,13.49,6.8,26.98,13.38,Debit Card,Dine-In
+ORD1063,2026-02-21,Brampton Branch,Brampton,CUST063,Repeat,Chicken Hakka Noodles,Noodles,2,13.99,7.5,27.98,12.98,Debit Card,Dine-In
+ORD1064,2026-02-21,Mississauga Branch,Mississauga,CUST064,Repeat,Veg Manchurian,Main Course,5,12.99,6.25,64.95,33.7,Credit Card,Dine-In
+ORD1065,2026-02-03,Mississauga Branch,Mississauga,CUST065,New,Chicken Fried Rice,Rice,5,14.49,8,72.45,32.45,Credit Card,Delivery
+ORD1066,2026-02-25,Mississauga Branch,Mississauga,CUST066,New,Veg Manchurian,Main Course,3,12.99,6.25,38.97,20.22,Debit Card,Delivery
+ORD1067,2026-02-25,Brampton Branch,Brampton,CUST067,New,Chilli Chicken,Main Course,1,15.99,8.75,15.99,7.24,Cash,Delivery
+ORD1068,2026-02-25,Toronto Branch,Toronto,CUST068,New,Schezwan Fried Rice,Rice,3,13.49,6.8,40.47,20.07,Cash,Takeout
+ORD1069,2026-02-08,Toronto Branch,Toronto,CUST069,Repeat,Veg Manchurian,Main Course,1,12.99,6.25,12.99,6.74,Cash,Takeout
+ORD1070,2026-03-12,Mississauga Branch,Mississauga,CUST070,New,Honey Garlic Chicken,Main Course,3,16.99,9,50.97,23.97,Credit Card,Takeout
+ORD1071,2026-03-20,Toronto Branch,Toronto,CUST071,Repeat,Honey Garlic Chicken,Main Course,2,16.99,9,33.98,15.98,Debit Card,Delivery
+ORD1072,2026-01-27,Brampton Branch,Brampton,CUST072,Repeat,Chilli Chicken,Main Course,3,15.99,8.75,47.97,21.72,Cash,Delivery
+ORD1073,2026-02-26,Toronto Branch,Toronto,CUST073,Repeat,Veg Manchurian,Main Course,4,12.99,6.25,51.96,26.96,Cash,Dine-In
+ORD1074,2026-03-26,Toronto Branch,Toronto,CUST074,New,Spring Rolls,Appetizer,2,5.99,2.25,11.98,7.48,Debit Card,Delivery
+ORD1075,2026-01-12,Toronto Branch,Toronto,CUST075,New,Mango Lassi,Beverage,3,4.99,1.5,14.97,10.47,Cash,Takeout
+ORD1076,2026-01-04,Brampton Branch,Brampton,CUST076,New,Schezwan Fried Rice,Rice,2,13.49,6.8,26.98,13.38,Credit Card,Takeout
+ORD1077,2026-02-23,Toronto Branch,Toronto,CUST077,New,Veg Hakka Noodles,Noodles,4,12.99,6.5,51.96,25.96,Cash,Delivery
+ORD1078,2026-02-01,Mississauga Branch,Mississauga,CUST078,New,Spring Rolls,Appetizer,4,5.99,2.25,23.96,14.96,Cash,Delivery
+ORD1079,2026-01-29,Brampton Branch,Brampton,CUST079,New,Veg Hakka Noodles,Noodles,4,12.99,6.5,51.96,25.96,Cash,Delivery
+ORD1080,2026-02-01,Mississauga Branch,Mississauga,CUST080,New,Chicken Hakka Noodles,Noodles,5,13.99,7.5,69.95,32.45,Debit Card,Dine-In
+ORD1081,2026-03-18,Mississauga Branch,Mississauga,CUST081,Repeat,Chicken Momos,Appetizer,5,10.99,5.2,54.95,28.95,Debit Card,Delivery
+ORD1082,2026-03-12,Toronto Branch,Toronto,CUST082,Repeat,Chicken Momos,Appetizer,4,10.99,5.2,43.96,23.16,Credit Card,Delivery
+ORD1083,2026-02-01,Mississauga Branch,Mississauga,CUST083,Repeat,Spring Rolls,Appetizer,3,5.99,2.25,17.97,11.22,Cash,Takeout
+ORD1084,2026-02-26,Toronto Branch,Toronto,CUST084,New,Schezwan Fried Rice,Rice,3,13.49,6.8,40.47,20.07,Cash,Takeout
+ORD1085,2026-02-10,Brampton Branch,Brampton,CUST085,New,Chilli Chicken,Main Course,3,15.99,8.75,47.97,21.72,Credit Card,Dine-In
+ORD1086,2026-01-28,Brampton Branch,Brampton,CUST086,New,Honey Garlic Chicken,Main Course,2,16.99,9,33.98,15.98,Debit Card,Takeout
+ORD1087,2026-02-23,Mississauga Branch,Mississauga,CUST087,New,Chicken Momos,Appetizer,4,10.99,5.2,43.96,23.16,Credit Card,Takeout
+ORD1088,2026-03-15,Mississauga Branch,Mississauga,CUST088,Repeat,Mango Lassi,Beverage,1,4.99,1.5,4.99,3.49,Debit Card,Dine-In
+ORD1089,2026-02-23,Mississauga Branch,Mississauga,CUST089,New,Chilli Chicken,Main Course,4,15.99,8.75,63.96,28.96,Debit Card,Dine-In
+ORD1090,2026-01-04,Mississauga Branch,Mississauga,CUST090,Repeat,Honey Garlic Chicken,Main Course,4,16.99,9,67.96,31.96,Debit Card,Delivery
+ORD1091,2026-03-01,Toronto Branch,Toronto,CUST091,New,Honey Garlic Chicken,Main Course,2,16.99,9,33.98,15.98,Cash,Delivery
+ORD1092,2026-03-14,Brampton Branch,Brampton,CUST092,New,Honey Garlic Chicken,Main Course,5,16.99,9,84.95,39.95,Credit Card,Delivery
+ORD1093,2026-01-24,Mississauga Branch,Mississauga,CUST093,New,Chicken Fried Rice,Rice,4,14.49,8,57.96,25.96,Debit Card,Takeout
+ORD1094,2026-02-11,Mississauga Branch,Mississauga,CUST094,Repeat,Schezwan Fried Rice,Rice,4,13.49,6.8,53.96,26.76,Debit Card,Takeout
+ORD1095,2026-03-02,Mississauga Branch,Mississauga,CUST095,New,Chilli Chicken,Main Course,1,15.99,8.75,15.99,7.24,Cash,Delivery
+ORD1096,2026-03-25,Brampton Branch,Brampton,CUST096,New,Veg Manchurian,Main Course,2,12.99,6.25,25.98,13.48,Cash,Dine-In
+ORD1097,2026-01-03,Brampton Branch,Brampton,CUST097,New,Schezwan Fried Rice,Rice,2,13.49,6.8,26.98,13.38,Credit Card,Dine-In
+ORD1098,2026-01-28,Mississauga Branch,Mississauga,CUST098,Repeat,Veg Hakka Noodles,Noodles,5,12.99,6.5,64.95,32.45,Cash,Takeout
+ORD1099,2026-03-19,Mississauga Branch,Mississauga,CUST099,New,Chicken Fried Rice,Rice,5,14.49,8,72.45,32.45,Credit Card,Takeout
+ORD1100,2026-02-09,Brampton Branch,Brampton,CUST100,Repeat,Mango Lassi,Beverage,1,4.99,1.5,4.99,3.49,Debit Card,Delivery
+ORD1101,2026-03-30,Brampton Branch,Brampton,CUST101,New,Veg Hakka Noodles,Noodles,5,12.99,6.5,64.95,32.45,Credit Card,Delivery
+ORD1102,2026-03-14,Mississauga Branch,Mississauga,CUST102,New,Mango Lassi,Beverage,1,4.99,1.5,4.99,3.49,Debit Card,Delivery
+ORD1103,2026-03-06,Mississauga Branch,Mississauga,CUST103,Repeat,Veg Manchurian,Main Course,1,12.99,6.25,12.99,6.74,Credit Card,Takeout
+ORD1104,2026-02-16,Mississauga Branch,Mississauga,CUST104,Repeat,Veg Hakka Noodles,Noodles,4,12.99,6.5,51.96,25.96,Cash,Dine-In
+ORD1105,2026-03-25,Mississauga Branch,Mississauga,CUST105,Repeat,Chicken Fried Rice,Rice,5,14.49,8,72.45,32.45,Cash,Delivery
+ORD1106,2026-03-17,Mississauga Branch,Mississauga,CUST106,Repeat,Spring Rolls,Appetizer,4,5.99,2.25,23.96,14.96,Debit Card,Dine-In
+ORD1107,2026-02-01,Brampton Branch,Brampton,CUST107,Repeat,Chilli Chicken,Main Course,4,15.99,8.75,63.96,28.96,Cash,Delivery
+ORD1108,2026-01-04,Toronto Branch,Toronto,CUST108,Repeat,Honey Garlic Chicken,Main Course,3,16.99,9,50.97,23.97,Debit Card,Dine-In
+ORD1109,2026-02-03,Mississauga Branch,Mississauga,CUST109,Repeat,Schezwan Fried Rice,Rice,3,13.49,6.8,40.47,20.07,Debit Card,Delivery
+ORD1110,2026-01-02,Toronto Branch,Toronto,CUST110,New,Chilli Chicken,Main Course,5,15.99,8.75,79.95,36.2,Credit Card,Dine-In
+ORD1111,2026-03-13,Toronto Branch,Toronto,CUST111,New,Honey Garlic Chicken,Main Course,4,16.99,9,67.96,31.96,Cash,Takeout
+ORD1112,2026-01-03,Toronto Branch,Toronto,CUST112,New,Spring Rolls,Appetizer,4,5.99,2.25,23.96,14.96,Debit Card,Dine-In
+ORD1113,2026-03-26,Mississauga Branch,Mississauga,CUST113,Repeat,Schezwan Fried Rice,Rice,3,13.49,6.8,40.47,20.07,Debit Card,Delivery
+ORD1114,2026-03-12,Toronto Branch,Toronto,CUST114,Repeat,Veg Manchurian,Main Course,4,12.99,6.25,51.96,26.96,Debit Card,Delivery
+ORD1115,2026-02-02,Mississauga Branch,Mississauga,CUST115,New,Chilli Chicken,Main Course,3,15.99,8.75,47.97,21.72,Credit Card,Delivery
+ORD1116,2026-03-10,Brampton Branch,Brampton,CUST116,New,Veg Manchurian,Main Course,1,12.99,6.25,12.99,6.74,Credit Card,Dine-In
+ORD1117,2026-03-17,Toronto Branch,Toronto,CUST117,Repeat,Spring Rolls,Appetizer,3,5.99,2.25,17.97,11.22,Credit Card,Dine-In
+ORD1118,2026-01-23,Mississauga Branch,Mississauga,CUST118,Repeat,Schezwan Fried Rice,Rice,3,13.49,6.8,40.47,20.07,Credit Card,Delivery
+ORD1119,2026-01-06,Toronto Branch,Toronto,CUST119,New,Chicken Fried Rice,Rice,3,14.49,8,43.47,19.47,Cash,Takeout
+ORD1120,2026-01-14,Toronto Branch,Toronto,CUST120,New,Chicken Fried Rice,Rice,4,14.49,8,57.96,25.96,Cash,Takeout
+ORD1121,2026-02-13,Mississauga Branch,Mississauga,CUST121,New,Spring Rolls,Appetizer,4,5.99,2.25,23.96,14.96,Credit Card,Takeout
+ORD1122,2026-02-21,Mississauga Branch,Mississauga,CUST122,Repeat,Veg Hakka Noodles,Noodles,1,12.99,6.5,12.99,6.49,Credit Card,Delivery
+ORD1123,2026-01-20,Toronto Branch,Toronto,CUST123,Repeat,Chicken Hakka Noodles,Noodles,2,13.99,7.5,27.98,12.98,Credit Card,Dine-In
+ORD1124,2026-03-19,Brampton Branch,Brampton,CUST124,New,Chicken Momos,Appetizer,4,10.99,5.2,43.96,23.16,Cash,Takeout
+ORD1125,2026-03-17,Mississauga Branch,Mississauga,CUST125,Repeat,Spring Rolls,Appetizer,3,5.99,2.25,17.97,11.22,Debit Card,Delivery
+ORD1126,2026-01-13,Toronto Branch,Toronto,CUST126,New,Chicken Hakka Noodles,Noodles,5,13.99,7.5,69.95,32.45,Cash,Dine-In
+ORD1127,2026-01-31,Mississauga Branch,Mississauga,CUST127,New,Veg Hakka Noodles,Noodles,2,12.99,6.5,25.98,12.98,Cash,Dine-In
+ORD1128,2026-02-27,Brampton Branch,Brampton,CUST128,Repeat,Chicken Hakka Noodles,Noodles,4,13.99,7.5,55.96,25.96,Debit Card,Dine-In
+ORD1129,2026-03-31,Brampton Branch,Brampton,CUST129,Repeat,Chilli Chicken,Main Course,3,15.99,8.75,47.97,21.72,Credit Card,Delivery
+ORD1130,2026-03-26,Brampton Branch,Brampton,CUST130,New,Chilli Chicken,Main Course,5,15.99,8.75,79.95,36.2,Debit Card,Dine-In
+ORD1131,2026-02-04,Toronto Branch,Toronto,CUST131,New,Schezwan Fried Rice,Rice,2,13.49,6.8,26.98,13.38,Credit Card,Dine-In
+ORD1132,2026-03-14,Brampton Branch,Brampton,CUST132,Repeat,Chilli Chicken,Main Course,5,15.99,8.75,79.95,36.2,Debit Card,Dine-In
+ORD1133,2026-02-04,Mississauga Branch,Mississauga,CUST133,Repeat,Chilli Chicken,Main Course,4,15.99,8.75,63.96,28.96,Debit Card,Dine-In
+ORD1134,2026-02-11,Toronto Branch,Toronto,CUST134,Repeat,Chicken Hakka Noodles,Noodles,4,13.99,7.5,55.96,25.96,Credit Card,Dine-In
+ORD1135,2026-01-03,Brampton Branch,Brampton,CUST135,Repeat,Mango Lassi,Beverage,5,4.99,1.5,24.95,17.45,Cash,Dine-In
+ORD1136,2026-03-25,Brampton Branch,Brampton,CUST136,Repeat,Spring Rolls,Appetizer,5,5.99,2.25,29.95,18.7,Debit Card,Dine-In
+ORD1137,2026-01-12,Toronto Branch,Toronto,CUST137,Repeat,Honey Garlic Chicken,Main Course,4,16.99,9,67.96,31.96,Debit Card,Takeout
+ORD1138,2026-01-21,Mississauga Branch,Mississauga,CUST138,Repeat,Veg Manchurian,Main Course,1,12.99,6.25,12.99,6.74,Debit Card,Delivery
+ORD1139,2026-03-12,Mississauga Branch,Mississauga,CUST139,New,Chilli Chicken,Main Course,4,15.99,8.75,63.96,28.96,Debit Card,Dine-In
+ORD1140,2026-01-15,Mississauga Branch,Mississauga,CUST140,Repeat,Chilli Chicken,Main Course,3,15.99,8.75,47.97,21.72,Cash,Dine-In
+ORD1141,2026-02-22,Toronto Branch,Toronto,CUST141,New,Chicken Momos,Appetizer,4,10.99,5.2,43.96,23.16,Credit Card,Delivery
+ORD1142,2026-03-22,Mississauga Branch,Mississauga,CUST142,Repeat,Mango Lassi,Beverage,4,4.99,1.5,19.96,13.96,Credit Card,Dine-In
+ORD1143,2026-02-06,Mississauga Branch,Mississauga,CUST143,Repeat,Chicken Momos,Appetizer,2,10.99,5.2,21.98,11.58,Cash,Takeout
+ORD1144,2026-01-31,Brampton Branch,Brampton,CUST144,New,Chicken Hakka Noodles,Noodles,5,13.99,7.5,69.95,32.45,Debit Card,Delivery
+ORD1145,2026-01-12,Brampton Branch,Brampton,CUST145,New,Chicken Momos,Appetizer,4,10.99,5.2,43.96,23.16,Credit Card,Takeout
+ORD1146,2026-02-07,Brampton Branch,Brampton,CUST146,Repeat,Chicken Fried Rice,Rice,4,14.49,8,57.96,25.96,Debit Card,Takeout
+ORD1147,2026-03-12,Mississauga Branch,Mississauga,CUST147,New,Schezwan Fried Rice,Rice,4,13.49,6.8,53.96,26.76,Debit Card,Dine-In
+ORD1148,2026-01-09,Toronto Branch,Toronto,CUST148,Repeat,Chicken Momos,Appetizer,2,10.99,5.2,21.98,11.58,Debit Card,Takeout
+ORD1149,2026-02-06,Toronto Branch,Toronto,CUST149,Repeat,Chilli Chicken,Main Course,1,15.99,8.75,15.99,7.24,Cash,Delivery
+ORD1150,2026-02-27,Toronto Branch,Toronto,CUST150,Repeat,Spring Rolls,Appetizer,2,5.99,2.25,11.98,7.48,Debit Card,Takeout
+ORD1151,2026-02-28,Toronto Branch,Toronto,CUST151,Repeat,Chicken Momos,Appetizer,4,10.99,5.2,43.96,23.16,Credit Card,Delivery
+ORD1152,2026-01-30,Brampton Branch,Brampton,CUST152,Repeat,Mango Lassi,Beverage,4,4.99,1.5,19.96,13.96,Credit Card,Takeout
+ORD1153,2026-02-19,Toronto Branch,Toronto,CUST153,New,Spring Rolls,Appetizer,4,5.99,2.25,23.96,14.96,Debit Card,Dine-In
+ORD1154,2026-02-12,Brampton Branch,Brampton,CUST154,New,Chicken Momos,Appetizer,5,10.99,5.2,54.95,28.95,Debit Card,Dine-In
+ORD1155,2026-01-19,Toronto Branch,Toronto,CUST155,Repeat,Spring Rolls,Appetizer,1,5.99,2.25,5.99,3.74,Cash,Dine-In
+ORD1156,2026-02-13,Brampton Branch,Brampton,CUST156,Repeat,Spring Rolls,Appetizer,3,5.99,2.25,17.97,11.22,Cash,Dine-In
+ORD1157,2026-02-10,Mississauga Branch,Mississauga,CUST157,Repeat,Chicken Momos,Appetizer,4,10.99,5.2,43.96,23.16,Cash,Dine-In
+ORD1158,2026-03-22,Toronto Branch,Toronto,CUST158,Repeat,Veg Hakka Noodles,Noodles,2,12.99,6.5,25.98,12.98,Credit Card,Delivery
+ORD1159,2026-03-23,Brampton Branch,Brampton,CUST159,New,Honey Garlic Chicken,Main Course,1,16.99,9,16.99,7.99,Debit Card,Dine-In
+ORD1160,2026-01-06,Toronto Branch,Toronto,CUST160,Repeat,Chilli Chicken,Main Course,1,15.99,8.75,15.99,7.24,Credit Card,Takeout
+ORD1161,2026-01-19,Mississauga Branch,Mississauga,CUST161,New,Veg Manchurian,Main Course,4,12.99,6.25,51.96,26.96,Cash,Takeout
+ORD1162,2026-01-23,Toronto Branch,Toronto,CUST162,New,Chicken Fried Rice,Rice,2,14.49,8,28.98,12.98,Cash,Takeout
+ORD1163,2026-03-16,Toronto Branch,Toronto,CUST163,New,Schezwan Fried Rice,Rice,4,13.49,6.8,53.96,26.76,Credit Card,Takeout
+ORD1164,2026-02-02,Toronto Branch,Toronto,CUST164,New,Chilli Chicken,Main Course,4,15.99,8.75,63.96,28.96,Debit Card,Takeout
+ORD1165,2026-01-10,Toronto Branch,Toronto,CUST165,Repeat,Chicken Momos,Appetizer,2,10.99,5.2,21.98,11.58,Debit Card,Delivery
+ORD1166,2026-02-28,Mississauga Branch,Mississauga,CUST166,Repeat,Honey Garlic Chicken,Main Course,3,16.99,9,50.97,23.97,Credit Card,Takeout
+ORD1167,2026-02-18,Mississauga Branch,Mississauga,CUST167,Repeat,Veg Hakka Noodles,Noodles,2,12.99,6.5,25.98,12.98,Cash,Takeout
+ORD1168,2026-03-26,Toronto Branch,Toronto,CUST168,Repeat,Chilli Chicken,Main Course,1,15.99,8.75,15.99,7.24,Debit Card,Dine-In
+ORD1169,2026-03-05,Toronto Branch,Toronto,CUST169,Repeat,Chicken Hakka Noodles,Noodles,5,13.99,7.5,69.95,32.45,Credit Card,Delivery
+ORD1170,2026-03-21,Mississauga Branch,Mississauga,CUST170,Repeat,Schezwan Fried Rice,Rice,2,13.49,6.8,26.98,13.38,Cash,Delivery
+ORD1171,2026-03-22,Toronto Branch,Toronto,CUST171,New,Chicken Fried Rice,Rice,1,14.49,8,14.49,6.49,Debit Card,Takeout
+ORD1172,2026-01-17,Brampton Branch,Brampton,CUST172,New,Mango Lassi,Beverage,3,4.99,1.5,14.97,10.47,Debit Card,Takeout
+ORD1173,2026-01-26,Toronto Branch,Toronto,CUST173,New,Honey Garlic Chicken,Main Course,2,16.99,9,33.98,15.98,Cash,Takeout
+ORD1174,2026-01-22,Toronto Branch,Toronto,CUST174,Repeat,Chicken Momos,Appetizer,3,10.99,5.2,32.97,17.37,Debit Card,Takeout
+ORD1175,2026-03-01,Toronto Branch,Toronto,CUST175,New,Veg Manchurian,Main Course,1,12.99,6.25,12.99,6.74,Credit Card,Dine-In
+ORD1176,2026-02-16,Toronto Branch,Toronto,CUST176,New,Honey Garlic Chicken,Main Course,5,16.99,9,84.95,39.95,Debit Card,Dine-In
+ORD1177,2026-02-28,Mississauga Branch,Mississauga,CUST177,Repeat,Chicken Momos,Appetizer,1,10.99,5.2,10.99,5.79,Cash,Delivery
+ORD1178,2026-02-18,Toronto Branch,Toronto,CUST178,Repeat,Chilli Chicken,Main Course,5,15.99,8.75,79.95,36.2,Credit Card,Delivery
+ORD1179,2026-03-21,Brampton Branch,Brampton,CUST179,Repeat,Spring Rolls,Appetizer,1,5.99,2.25,5.99,3.74,Cash,Dine-In
+ORD1180,2026-03-31,Toronto Branch,Toronto,CUST180,Repeat,Veg Hakka Noodles,Noodles,4,12.99,6.5,51.96,25.96,Cash,Takeout
+ORD1181,2026-01-05,Brampton Branch,Brampton,CUST181,Repeat,Chicken Fried Rice,Rice,1,14.49,8,14.49,6.49,Debit Card,Dine-In
+ORD1182,2026-01-18,Brampton Branch,Brampton,CUST182,Repeat,Schezwan Fried Rice,Rice,5,13.49,6.8,67.45,33.45,Debit Card,Takeout
+ORD1183,2026-03-17,Toronto Branch,Toronto,CUST183,New,Chicken Momos,Appetizer,4,10.99,5.2,43.96,23.16,Debit Card,Delivery
+ORD1184,2026-02-22,Brampton Branch,Brampton,CUST184,Repeat,Spring Rolls,Appetizer,5,5.99,2.25,29.95,18.7,Credit Card,Delivery
+ORD1185,2026-02-26,Mississauga Branch,Mississauga,CUST185,New,Schezwan Fried Rice,Rice,4,13.49,6.8,53.96,26.76,Debit Card,Dine-In
+ORD1186,2026-03-24,Toronto Branch,Toronto,CUST186,Repeat,Veg Manchurian,Main Course,5,12.99,6.25,64.95,33.7,Credit Card,Takeout
+ORD1187,2026-02-28,Mississauga Branch,Mississauga,CUST187,New,Schezwan Fried Rice,Rice,1,13.49,6.8,13.49,6.69,Cash,Dine-In
+ORD1188,2026-01-07,Toronto Branch,Toronto,CUST188,Repeat,Mango Lassi,Beverage,1,4.99,1.5,4.99,3.49,Credit Card,Dine-In
+ORD1189,2026-03-12,Toronto Branch,Toronto,CUST189,New,Schezwan Fried Rice,Rice,1,13.49,6.8,13.49,6.69,Cash,Dine-In
+ORD1190,2026-03-18,Brampton Branch,Brampton,CUST190,New,Veg Manchurian,Main Course,2,12.99,6.25,25.98,13.48,Debit Card,Dine-In
+ORD1191,2026-01-23,Brampton Branch,Brampton,CUST191,New,Chicken Momos,Appetizer,3,10.99,5.2,32.97,17.37,Cash,Dine-In
+ORD1192,2026-01-31,Brampton Branch,Brampton,CUST192,Repeat,Chicken Hakka Noodles,Noodles,3,13.99,7.5,41.97,19.47,Credit Card,Dine-In
+ORD1193,2026-02-23,Mississauga Branch,Mississauga,CUST193,New,Chicken Hakka Noodles,Noodles,2,13.99,7.5,27.98,12.98,Cash,Dine-In
+ORD1194,2026-03-07,Mississauga Branch,Mississauga,CUST194,New,Spring Rolls,Appetizer,3,5.99,2.25,17.97,11.22,Debit Card,Delivery
+ORD1195,2026-03-26,Brampton Branch,Brampton,CUST195,Repeat,Mango Lassi,Beverage,1,4.99,1.5,4.99,3.49,Debit Card,Delivery
+ORD1196,2026-02-21,Brampton Branch,Brampton,CUST196,Repeat,Chicken Hakka Noodles,Noodles,4,13.99,7.5,55.96,25.96,Cash,Dine-In
+ORD1197,2026-01-11,Mississauga Branch,Mississauga,CUST197,Repeat,Spring Rolls,Appetizer,1,5.99,2.25,5.99,3.74,Cash,Dine-In
+ORD1198,2026-03-21,Brampton Branch,Brampton,CUST198,Repeat,Chicken Fried Rice,Rice,3,14.49,8,43.47,19.47,Debit Card,Delivery
+ORD1199,2026-03-06,Toronto Branch,Toronto,CUST199,Repeat,Chilli Chicken,Main Course,4,15.99,8.75,63.96,28.96,Credit Card,Delivery
+ORD1200,2026-02-25,Brampton Branch,Brampton,CUST200,Repeat,Chicken Momos,Appetizer,2,10.99,5.2,21.98,11.58,Credit Card,Takeout
