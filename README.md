@@ -26,6 +26,15 @@ Restaurant data is often spread across multiple files and systems, making it dif
 
 This project centralizes the data and provides actionable insights through reporting and dashboards.
 
-## Project Status
+## Project Screenshots
+### Microsoft Fabric Lakehouse
+![Fabric Lakehouse](images/fabric_lakehouse_tables.png.png)
 
-🚧 In Progress
+### PySpark Notebook
+![Notebook](images/fabric_notebook_code.png.png)
+
+### Gold Layer Output
+![Gold Table](images/gold_category_sales.png)
+
+## Project Status
+ In Progress
